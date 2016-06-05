@@ -1,3 +1,3 @@
-# yarpnarp - Attendance list for NoName e.V. meetings
+# The code has moved
 
-[![Build Status](https://travis-ci.org/nnev/yarpnarp.svg)](https://travis-ci.org/nnev/yarpnarp)
+Yarpnarp is now a part of [the new website repo](https://github.com/nnev/website)
